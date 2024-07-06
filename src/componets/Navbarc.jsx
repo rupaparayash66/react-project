@@ -19,7 +19,7 @@ function Navbarc() {
                         style={{ maxHeight: '100px' }}
                         navbarScroll
                     >
-                        <Nav.Link href="#" className="text-dark"><b>HOME</b></Nav.Link>
+                        <Nav.Link href="#home" className="text-dark"><b>HOME</b></Nav.Link>
                         <Nav.Link href="#about" className="text-dark"><b>ABOUT</b></Nav.Link>
                         <Nav.Link href="#services" className="text-dark"><b>SERVICES</b></Nav.Link>
                         <Nav.Link href="#porfolio" className="text-dark"><b>PORFOLIO</b></Nav.Link>
